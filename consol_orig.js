@@ -35,5 +35,5 @@ document.getElementById(box3id).value='XXXXX';
 document.getElementById(box4id).value='XXXXX';
 
 //试验按钮，不建议用
-document.getElementById(box4id).click(); //自动保存并提交，危险性比较大，不建议加到脚本里面，别这么
+document.getElementById(box4id).click(); //自动保存并提交，危险性比较大，不建议加到脚本里面，别这么懒
 
